@@ -3,7 +3,7 @@
 ***
 
 # sap-api-service-validation-sandbox
-sap-api-service-validation-sandbox は、主にエッジコンピューティング環境において、外部システムをSAPと統合することを目的として作成された [sap-sandbox](https://github.com/latonaio/sap-sandbox)におけるAPIサービスが、有効化されているかどうかを示すレポジトリです。  
+sap-api-service-validation-sandbox は、それぞれの SAP APIサービスが、Latonaが整備したSAP環境内で、有効化されているかどうかを示したレポジトリです。  
 sap-api-service-validation-sandbox の 「sandbox」は、Netflix 韓国ドラマ 「START-UP」 より、すべての開発者のための 地ならし になればという想いから命名されました。  
 なお、各リポジトリのリソースは、そのままクラウド環境におけるアプリケーションにも適用可能です。  
 
