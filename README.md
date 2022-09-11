@@ -15,3 +15,8 @@ sap-api-service-validation-sandbox は、オンプレミス版である（＝ク
 下の図において、チェックマークが付いているリソースが、Latonaにおいて(少なくとも1次の)整備が行われたものであり、github上に公開されています。  
 
 ![リソース整備状況](documents/sap-api-validated-sandbox_0911.drawio-3.png)
+
+## Latonaが整備したSAP環境内における有効化されたSAP APIサービスの確認画面
+下の図において、サービスカタログに表示されているAPIサービスが、Latonaが整備したSAP環境内において有効化されたSAP APIサービスです。
+
+![サービスカタログ](documents/A873DF86-5271-4248-ACD7-1AD58F604459.jpeg)
